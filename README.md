@@ -1,5 +1,3 @@
-Este repositorio reúne una serie de prácticas y ejercicios diseñados para dominar las bases del lenguaje Python. El contenido abarca desde la sintaxis inicial hasta la implementación de lógica compleja mediante estructuras de control y funciones.
-
 ## 📁 Contenido del Repositorio
 
 ### 1. Lenguaje de Programación Python (Bases)
